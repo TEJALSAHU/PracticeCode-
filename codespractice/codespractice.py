@@ -140,3 +140,6 @@ def new_string(text):#define a fun name "new_sting"that take str para called "te
         return "Is" + text
     print(new_string("Array"))
     print(new_string("IsEmpty"))
+
+#exercise 20
+#     
